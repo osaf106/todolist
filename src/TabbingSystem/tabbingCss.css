@@ -1,0 +1,27 @@
+
+.tabOuter
+{
+  width: 1170px;
+  margin: auto;
+}
+.tabOuter ul{
+   list-style: none;
+   display: flex;
+   margin: 0px;
+   padding: 0px;
+   gap: 30px;
+}
+.tabOuter ul li button{
+  background: #e4e4e4;
+  border: none;
+  color: #343a40;
+  padding: 30px,20px;
+  margin-right: 18px;
+  font-weight: 600;
+  height: 35px;
+}
+.ActiveTab
+{
+  background-color: rebeccapurple !important;
+  color: white !important;
+}
